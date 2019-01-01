@@ -1,0 +1,1 @@
+# Menyalin-Array-A-Ke-B-Genap-Berurutan-Lebihdari-0
